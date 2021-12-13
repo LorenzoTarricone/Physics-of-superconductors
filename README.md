@@ -1,2 +1,2 @@
-# Trail.2
- Another thing
+# Project of statistics 
+ > Remember that you don't have the palline
